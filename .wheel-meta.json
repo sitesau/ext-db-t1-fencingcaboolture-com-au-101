@@ -1,0 +1,22 @@
+{
+  "wheel_id": 535,
+  "structure": "umbrella",
+  "slug": "ext-db-t1-fencingcaboolture-com-au-101",
+  "project": "fencing-caboolture-how-to-choose-21e9a4237db0f6fba4ab08fb225",
+  "parent_t1_ref": "ext-db-t1-fencingcaboolture-com-au-150",
+  "node_role": "feeder",
+  "money_target": "fencingcaboolture.com.au",
+  "primary_kw": "fencing caboolture how to choose",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/fencing-caboolture-how-to-choose-21e9a4237db0f6fba4ab08fb225/",
+  "tier": "T2",
+  "writeback_nonce": "65e48db6ebde3af8",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/fencing-caboolture-a71fd23347aa68adab36f7344841d8418706310d/",
+      "anchor": "Fencing Caboolture: Planning Your Project",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
